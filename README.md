@@ -10,7 +10,7 @@ A list of graduation projects of Al-Azhar Systems and Computer Engineering stude
   * [WallBox Charger](https://github.com/azhar-cse-students-wiki/graduation-projects/blob/main/2022/wallbox-charger.md)
 * [2021](https://github.com/azhar-cse-students-wiki/graduation-projects/tree/main/2021)
   * [Interpreter Visualizer](https://github.com/azhar-cse-students-wiki/graduation-projects/blob/main/2021/interpreter-visualizer.md)
-  * [Medical Prescription Handling Using AI Techniques](https://github.com/azhar-cse-students-wiki/graduation-projects/blob/main/2021/medical-prescription-handling-using-ai-techniques)
+  * [Medical Prescription Handling Using AI Techniques](https://github.com/azhar-cse-students-wiki/graduation-projects/blob/main/2021/medical-prescription-handling-using-ai-techniques.md)
   * [Zakerly](https://github.com/azhar-cse-students-wiki/graduation-projects/blob/main/2021/zakerly.md)
  
 ## How to Contribute?
