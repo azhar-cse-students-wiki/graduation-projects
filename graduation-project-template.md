@@ -3,16 +3,16 @@
 ## Overview
 An overall description of the project business domains or project structure (e.g. you can use your graduation book/documentation).
 
-## Motivation
+## Motivation (optional)
 Why did you choose this project? What would you introduce? 
 
 ## Technology Stacks and Tools
 Table of technologies you used in the project (e.g. VueJS for frontend, Django for backend,..etc).
 
-## Members and Supervisor (Contributors)
+## Members (Contributors) and Supervisors
 List of project members, supervisors, and any external sponsorship/supervision in the project (with contact links if available).
 
-## Awards
+## Awards (optional)
 List of awards or prizes you won for the project from graduation projects' competitions or hackathons (e.g. AZEX Exhibition, AZCENS, Dell Technologies, EGSA,...etc)
 
 ## Links
