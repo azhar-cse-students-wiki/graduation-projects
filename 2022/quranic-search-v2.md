@@ -12,8 +12,8 @@ There are two popular types of Quran searching techniques: lexical or keyword-ba
 | Tool                                                 | Description                                                  |
 |:----------------------------------------------------:|:------------------------------------------------------------:|
 | [Visual Studio Code](https://code.visualstudio.com/) | IDE                                                          |
-| [React.js](https://reactjs.org/)                     | Frontend framework                                           |
-| [django](https://www.djangoproject.com/)             | Lexical Search Backend Framework                             |
+| [React.js](https://reactjs.org/)                     | Website Frontend framework                                   |
+| [django](https://www.djangoproject.com/)             | Lexical Search API Backend Framework                         |
 | [Flask](https://flask.palletsprojects.com/en/2.1.x/) | Semantic Search API Backend Framework                        |
 | [Gensim](https://radimrehurek.com/gensim/)           | Topic Modeling (Word2Vec, KeyedVectors)                      |
 | [SQLite3](https://www.sqlite.org/)                   | For the Holy Quran Database                                  |
