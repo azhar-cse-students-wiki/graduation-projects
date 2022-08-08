@@ -11,7 +11,7 @@
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
 </p>
 
-## Description
+## Overview
 Our project is security focused, specifically on the containers realm.
 
 We provide security compliance for the containers that run on different operating systems. 
