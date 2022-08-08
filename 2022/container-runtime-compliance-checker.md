@@ -12,6 +12,13 @@
 </p>
 
 ## Description
+Our project is security focused, specifically on the containers realm.
+We provide security compliance for the containers that run on different operating systems. 
+Our compliance is based on 4 main pillars:
+1. File System Analysis
+2. Process Analysis
+3. Network Analysis
+4. DNS Analysis
 
 ## Technologies
 - [Go](https://go.dev/) for the Backend with [Standard Go Project Layout](https://github.com/golang-standards/project-layout) the project structure we follow
@@ -20,8 +27,13 @@
 - [PostgreSQL](https://www.postgresql.org/) DBMS for saving our scan histories 
 
 ## Members and Supervisor
+### Main Contributors
 - [Mohamed Mekkawy](https://github.com/Mekkawy12)
 - [Ahmad Ateya](https://github.com/ahmadateya)
+
+### Our Supervisor
+- [Dr Abdelrahman Nasr]() our Supervisor
+- [Eng. Mostafa Tantawi](https://www.linkedin.com/in/maltantawy/) our mentor through the development journey
 
 ## Links
 - [Github Repo](https://github.com/ahmadateya/crcc)
