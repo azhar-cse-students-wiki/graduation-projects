@@ -23,17 +23,22 @@ Our compliance is based on 4 main pillars:
 ## Technologies
 - [Go](https://go.dev/) for the Backend with [Standard Go Project Layout](https://github.com/golang-standards/project-layout) the project structure we follow
 - NuxtJs framework with Aragon theme [live preview](https://nuxt-argon-dashboard-laravel.creative-tim.com/dashboard/).
-- Docker & Docker compose for containers management and Docker APIs for interacting with containers
+- [Docker & Docker compose](https://www.docker.com/) for containers management and Docker APIs for interacting with containers
 - [PostgreSQL](https://www.postgresql.org/) DBMS for saving our scan histories 
 
 ## Members and Supervisor
 ### Main Contributors
-- [Mohamed Mekkawy](https://github.com/Mekkawy12)
-- [Ahmad Ateya](https://github.com/ahmadateya)
+<table>
+  <tr>
+    <td align="center"><a href="https://github.com/Mekkawy12"><img src="https://avatars.githubusercontent.com/u/73884160?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Mohamed Mekkawy</b></sub></a><br /></td>
+    <td align="center"><a href="https://github.com/ahmadateya"><img src="https://avatars.githubusercontent.com/u/32394857?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Ahmad Ateya</b></sub></a><br /></td>
+  </tr>
+</table>
 
 ### Our Supervisor
-- [Dr Abdelrahman Nasr]() our Supervisor
+- [Dr Abdelrahman Nasr](https://www.linkedin.com/in/) our Academic Supervisor
 - [Eng. Mostafa Tantawi](https://www.linkedin.com/in/maltantawy/) our mentor through the development journey
+
 
 ## Links
 - [Github Repo](https://github.com/ahmadateya/crcc)
